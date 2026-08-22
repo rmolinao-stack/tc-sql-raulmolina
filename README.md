@@ -8,9 +8,7 @@ Esta es la estructura completa del repositorio del Team Challenge (incluye las d
 ```
 tc-sql-raulmolina/
 ├── parte_1_sql_murder_mystery/
-│   ├── investigacion.ipynb
-│   └── data/
-│       └── (vacío — los datos están en BigQuery)
+│   └── investigacion.ipynb
 ├── parte_2_modelo_bigquery/
 │   ├── data/
 │   │   └── (vacío — los datos están en BigQuery)
