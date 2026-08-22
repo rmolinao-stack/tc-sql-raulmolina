@@ -1,5 +1,5 @@
 # tc-sql-raulmolina
-Team Challenge sql - The Bridge
+Team Challenge sql - The Bridge.
 
 ### Estructura del repositorio
 
